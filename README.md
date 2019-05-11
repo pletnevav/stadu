@@ -1,1 +1,1 @@
-# stadu
+# stady
